@@ -1,8 +1,12 @@
 AngularJS Troggle
 =================
 
-Multi-state toggle directive for AngularJS
+Multi-option Radio button group toggle directive for AngularJS
+Optimised for Bootstrap but can be used with anything
 
+Demo
+----
+http://jsfiddle.net/5x9o85ez/2/
 
 
 Download on Github
